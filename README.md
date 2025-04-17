@@ -1,5 +1,7 @@
 
-## Deployment Overview (Now Not Available through IP )
+## Deployment Overview 
+
+## RPC to Test: https://rollup-sam.railway.app
 
 ### 1. Contract Deployment
 
